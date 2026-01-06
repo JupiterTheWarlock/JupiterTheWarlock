@@ -1,10 +1,15 @@
 # 一个AI native的抽象派游戏开发者
-AGI降临主义 | Unity的狗 | 游戏小厂打工中
+## **AGI降临主义 | Unity的狗 | 游戏小厂打工中**
+>  正在尝试/捣鼓：独立开发 | 独立游戏开发 | 自托管 | 上下文工程 | 自动化 | 超级个体 | 自媒体
+---
 
-正在尝试/捣鼓
-独立开发 | 独立游戏开发 | 自托管 | 上下文工程 | 自动化 | 超级个体 | 自媒体
+### 👋 关于我
+- 正在尝试自动构建自动化构建自动化工作流的工作流
+- 正在探索将AI融入Unity游戏开发工作流
+- 正在尝试构建无限流
+>~上述三个流正如我是三流~
 
-## 使用的工具 
+### 🛠️ 技术栈 / 工具
 <p>
   <img src="https://api.iconify.design/simple-icons/unity.svg?color=%23888888" width="32" height="32" />
   <img src="https://api.iconify.design/simple-icons/cursor.svg?color=%23888888" width="32" height="32" />
@@ -15,7 +20,7 @@ AGI降临主义 | Unity的狗 | 游戏小厂打工中
   <img src="https://api.iconify.design/simple-icons/typescript.svg?color=%233178C6" width="32" height="32" />
 </p>
 
-## 日常生活
+### 🎮 日常生活
 <p>
   <img src="https://api.iconify.design/simple-icons/steam.svg?color=%23888888" width="32" height="32" />
   
