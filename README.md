@@ -42,6 +42,9 @@ C# / Unity｜高频 Game Jam中
   <a href="https://github.com/JupiterTheWarlock" target="_blank"><img src="https://api.iconify.design/simple-icons/github.svg?color=%23888888" width="32" height="32" /></a>
   <a href="https://jupiter-the-warlock.itch.io/" target="_blank"><img src="https://api.iconify.design/simple-icons/itchdotio.svg?color=%23FA5C5C" width="32" height="32" /></a>
   <a href="https://makerworld.com.cn/zh/@JtheWL" target="_blank"><img src="https://api.iconify.design/simple-icons/bambulab.svg?color=%2300AE42" width="32" height="32" /></a>
+  <a href="https://space.bilibili.com/76543088" target="_blank"><img src="https://api.iconify.design/simple-icons/bilibili.svg?color=%2300A1D6" width="32" height="32" /></a>
+  <a href="https://www.zhihu.com/people/ying-ying-ying-ying-ying-hua-san-27" target="_blank"><img src="https://api.iconify.design/simple-icons/zhihu.svg?color=%230066FF" width="32" height="32" /></a>
+  <a href="https://www.gcores.com/users/744716" target="_blank"><img src="https://api.iconify.design/simple-icons/gcores.svg?color=%23161A1A" width="32" height="32" /></a>
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JupiterTheWarlock)](https://github.com/anuraghazra/github-readme-stats)
